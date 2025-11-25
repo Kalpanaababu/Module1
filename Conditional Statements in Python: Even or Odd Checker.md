@@ -15,7 +15,7 @@ To write a Python program to check whether the given number is **even** or **odd
 
 ```
 Developed By : Kalpanaa Babu T M
-Reg No : 212224040369
+Reg No : 212224230112
 
 num = int(input("Enter a number: "))
 if num % 2 == 0:
